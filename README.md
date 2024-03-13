@@ -1,1 +1,1 @@
-# Spam-Ham-Dection
+# Spam-Ham-Detection
